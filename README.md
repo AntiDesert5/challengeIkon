@@ -17,3 +17,7 @@ Realizar un Scroll to index es un proceso mas complicado dado que se requiere em
 
 - Para resolver este reto se analizo las posibles soluciones, y se opto por tener un enfoque orientado a lo practico, crear un widget que de el funcionamiento de una lista desplazable según los contactos , con la posibilidad de filtrarlos por medio de una busqueda. se opto por utilizar el patrón del MVC, ya que es una aplicación muy sencilla y se podría escalar la complejidad sin dar problemas.
 
+![Screenshot_1658948852](https://user-images.githubusercontent.com/30324747/181352823-da92e676-b120-4440-bc1d-47d1711231f3.png)
+![Screenshot_1658948685](https://user-images.githubusercontent.com/30324747/181352836-35f9ada6-36c5-495d-915c-5baa47ae15ca.png)
+![Screenshot_1658948677](https://user-images.githubusercontent.com/30324747/181352850-b22779eb-40d5-4f79-bf18-6eb24f99efb3.png)
+![Screenshot_1658948021](https://user-images.githubusercontent.com/30324747/181352881-74bbf577-974c-4965-a331-0402675163d0.png)
