@@ -22,7 +22,7 @@ class Users {
     "Leo",
     "Daniel",
     "Alejandro",
-    12,
+    "",
   ];
   List get user {
     return contacts;
